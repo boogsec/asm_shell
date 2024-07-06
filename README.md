@@ -1,5 +1,7 @@
 # asm_shell
-Basic /bin/bash shell created in x86 assembly. Can be used to compile and create your own shellcode for exploitation. **Note this assembly code will create null terminators and may cause seg faults. It's here as a PoC and to build on it**
+Basic /bin/bash shell created in x86 assembly. Can be used to compile and create your own shellcode for exploitation. 
+
+### Note this assembly code will create null terminators and may cause seg faults. It's here as a PoC and to build on it
 
 ## Compiling
 
