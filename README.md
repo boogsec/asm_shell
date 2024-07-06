@@ -1,2 +1,2 @@
 # asm_shell
-Assembly Shell
+Basic /bin/bash shell created in x86 assembly
